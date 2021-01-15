@@ -1,0 +1,16 @@
+it\manytomanyjpamaven\dao\MyDAOFactory.class
+it\manytomanyjpamaven\dao\RuoloDAO.class
+it\manytomanyjpamaven\dao\UtenteDAO.class
+it\manytomanyjpamaven\model\Ruolo.class
+it\manytomanyjpamaven\dao\EntityManagerUtil.class
+it\manytomanyjpamaven\service\RuoloServiceImpl.class
+it\manytomanyjpamaven\model\StatoUtente.class
+it\manytomanyjpamaven\model\Utente.class
+it\manytomanyjpamaven\dao\IBaseDAO.class
+it\manytomanyjpamaven\dao\RuoloDAOImpl.class
+it\manytomanyjpamaven\dao\UtenteDAOImpl.class
+it\manytomanyjpamaven\test\ManyToManyTest.class
+it\manytomanyjpamaven\service\RuoloService.class
+it\manytomanyjpamaven\service\MyServiceFactory.class
+it\manytomanyjpamaven\service\UtenteService.class
+it\manytomanyjpamaven\service\UtenteServiceImpl.class
