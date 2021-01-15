@@ -52,7 +52,7 @@ public class ManyToManyTest {
 
 			// test Delete
 
-			Ruolo ruoloDaCancellare = ruoloServiceInstance.caricaSingoloElemento(4L);
+			Ruolo ruoloDaCancellare = ruoloServiceInstance.caricaSingoloElemento(2L);
 			// Ruolo
 			// ruoloDaCancellare=ruoloServiceInstance.cercaPerDescrizione("Amministratore");
 			if (ruoloDaCancellare != null) {
